@@ -1,4 +1,12 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Created-On: 2015-11-24T21:01:24.829Z
+=======
+<<<<<<< HEAD
+Created-On: 2015-11-24T20:54:10.669Z
+=======
+Created-On: 2015-12-08T18:36:51.791Z
+>>>>>>> 87a66df43f4413168b1c78e15acc4516533ea584
+>>>>>>> master
 Appian-Version: 7.11.0.0
 
