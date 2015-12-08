@@ -190,7 +190,7 @@
             </role>
             <role allowForAll="false" inherit="false" name="administrators">
                 <users>
-                    <userUuid>appian.designer2</userUuid>
+                    <userUuid>adriana.irvine</userUuid>
                 </users>
                 <groups/>
             </role>
@@ -208,4 +208,4 @@
             </role>
         </contentRoleMap>
     </roleMap>
-</applicationHaul> 
+</applicationHaul>
