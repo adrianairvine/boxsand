@@ -14,7 +14,7 @@
             <system>false</system>
             <unlogged>false</unlogged>
         </visibility>
-        <definition>tostring(ri!text)</definition>
+        <definition>tostring(ri!text)&amp;tostring(ri!text)&amp;tostring(ri!text)</definition>
         <namedTypedValue>
             <name>text</name>
             <type>
